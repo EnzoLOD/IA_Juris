@@ -1,0 +1,23 @@
+# Development dependencies for the project
+
+flask
+flask-restful
+pytest
+pytest-cov
+black
+isort
+mypy
+flake8
+pre-commit
+jupyter
+pylint
+requests
+tensorflow
+torch
+transformers
+scikit-learn
+numpy
+pandas
+sqlalchemy
+pydantic
+fastapi
