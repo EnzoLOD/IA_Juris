@@ -6,7 +6,7 @@ Componentes fundamentais do sistema de análise jurídica com IA
 
 from .hyde_retriever import HydeRetriever
 from .embeddings import EmbeddingManager
-from .document_processor import DocumentProcessor
+from ..services.document_processor import DocumentProcessor
 from .vector_store import VectorStore
 
 __all__ = [
